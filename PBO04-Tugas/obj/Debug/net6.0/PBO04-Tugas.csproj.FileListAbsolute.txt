@@ -1,0 +1,15 @@
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\bin\Debug\net6.0\PBO04-Tugas.exe
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\bin\Debug\net6.0\PBO04-Tugas.deps.json
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\bin\Debug\net6.0\PBO04-Tugas.runtimeconfig.json
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\bin\Debug\net6.0\PBO04-Tugas.dll
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\bin\Debug\net6.0\PBO04-Tugas.pdb
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.csproj.AssemblyReference.cache
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.AssemblyInfoInputs.cache
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.AssemblyInfo.cs
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.dll
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\refint\PBO04-Tugas.dll
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.pdb
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\PBO04-Tugas.genruntimeconfig.cache
+E:\Visual Studio 2022\PBO04-Tugas\PBO04-Tugas\obj\Debug\net6.0\ref\PBO04-Tugas.dll
