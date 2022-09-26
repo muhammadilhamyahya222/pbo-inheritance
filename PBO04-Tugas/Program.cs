@@ -1,4 +1,4 @@
-﻿namespace Capek
+namespace Capek
 {
     // LAPTOP
     class Laptop
@@ -231,10 +231,10 @@
             //laptop2.LaptopDimatikan();
 
             // Soal No. 2
-            //laptop1.NyalakanLampu();
+            //laptop1.Ngoding();
 
             // Soal No. 3
-            Console.WriteLine($"Merk VGA = {laptop1.vga.merk}, Merk Processor = {laptop1.processor.merk}, Tipe Processor = {laptop1.processor.tipe}");
+            //Console.WriteLine($"Merk VGA = {laptop1.vga.merk}, Merk Processor = {laptop1.processor.merk}, Tipe Processor = {laptop1.processor.tipe}");
 
             // Soal No. 4
             //predator.BermainGame();
